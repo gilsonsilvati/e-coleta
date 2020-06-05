@@ -8,8 +8,7 @@ const users = [
       'Gilson',
       'Lidy',
       'Leka',
-      'Biel',
-      'Test'
+      'Biel'
 ];
 
 app.get('/users', (request, response) => {
