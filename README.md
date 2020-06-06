@@ -1,4 +1,7 @@
 ### e-coleta - Web e/ou Mobile
+-------------
+
+# [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
@@ -33,7 +36,6 @@ Descrição
 ### Framework:
 
 > **Semelhante ao Jakarta Persistence:** knexjs
-> **// TODO:**
 
 ### Comandos:
 
@@ -43,4 +45,4 @@ Descrição
 
 **Inserts:** `$ npm run knex:seed`
 
-> **// TODO: logo**
+![2560x1080](https://user-images.githubusercontent.com/7306453/83935429-ea393100-a78f-11ea-9f22-17ae8c82ba76.jpg)
