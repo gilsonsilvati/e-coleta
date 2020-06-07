@@ -14,7 +14,7 @@ Descrição
 
 > **Back-End:** NodeJS e TypeScripr
 
-> **Front-End:** ReactJS e React Native
+> **Front-End:** React e ReactJS
 
 > **Banco de Dados:** SQLite3
 
