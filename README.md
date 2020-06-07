@@ -36,6 +36,8 @@ Descrição
 ### Framework:
 
 > **Semelhante ao Jakarta Persistence:** knexjs
+> **API de Mapas:** Leafletjs (React-Leaflet)
+> **Consulta UF / Cidade:** API do IGGE
 
 ### Comandos:
 
