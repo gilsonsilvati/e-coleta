@@ -1,4 +1,4 @@
-### e-coleta - Web e/ou Mobile
+### e-coleta - Web
 -------------
 
 # [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
